@@ -1,0 +1,5 @@
+max of the flux = 1.149536
+average on bins max = 1.144075
+Statistical error on max = 0.0026641377849823673 and max error = 1.9999998999999975n =10000000
+Standart deviation on max = 0.24211364575702873
+Duration of computation =7209.268864870071
