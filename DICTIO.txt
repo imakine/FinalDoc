@@ -1,0 +1,46 @@
+A
+
+COORD --> coordonate
+
+Deviation --> standard deviation 
+
+Error flux --> Statistical error on flux
+
+flux --> flux 
+
+test --> Summary (time, max of flux, standard deviation on max, variance on max, stat error on max,..)
+
+variance --> variance for the flux
+
+________________________________________________________________
+
+B
+
+Nothing --> Classical + Homogeneous
+
+R --> Class. + Regional
+
+NC --> Non-class + Homo
+
+NCR --> Non-class + Regional
+
+________________________________________________________________
+
+C
+
+1 SP1
+
+2 SP2
+
+3 SP3
+
+________________________________________________________________
+
+All file has a name : A + B + sp + C + value of c 
+
+(except for SP3 NCR --> I add secccccc because of the problem during the code I keep just the last version)
+
+example : flux_sp10.6 --> Flux for SP1 in Class and Homo for c = 0.6
+coord_spNCR30.1 --> coordinates for SP3 in Non-Class and regional for c = 0.1
+variance_spNC30.95 --> Variance for SP3 in Non-class homo for c = 0.95
+...
